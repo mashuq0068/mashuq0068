@@ -1,5 +1,5 @@
 ### Hi there. I am Mashuq👋
-![Banner]([URL_TO_YOUR_IMAGE](https://www.canva.com/design/DAF2bNltJQA/6OAh0gw9MbdTKyrLTSnmnQ/edit?utm_content=DAF2bNltJQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Banner]([https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png]
 <!--
 **mashuq0068/mashuq0068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
