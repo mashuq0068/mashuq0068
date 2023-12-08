@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png)
 <!--
 **mashuq0068/mashuq0068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
