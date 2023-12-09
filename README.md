@@ -1,6 +1,6 @@
 ### Hi there. I am Mashuq👋
 ![Banner](https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png)
-You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
+
 
 ### About Me
 
@@ -20,3 +20,11 @@ You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.
 - <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="20" />    Tailwind CSS •
  
 
+# Contact
+
+You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
+
+# Connect with Me
+
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/mashuq0068)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
