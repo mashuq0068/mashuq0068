@@ -44,7 +44,6 @@
  <p align="center">
  <h3 align="center"> <strong>Current Github Status</strong></h3>
  </br>
- </br>
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 <img src="https://i.ibb.co/N2z7BwR/github-wrapped-1.png"/>
