@@ -55,3 +55,8 @@ Key Features:
 - You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
 - 🐦 Twitter: [@MyTwitterHandle](https://twitter.com/mashuq0068)
 - 💼 LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068)](https://git.io/streak-stats)
