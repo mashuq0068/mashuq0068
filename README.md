@@ -38,10 +38,10 @@
   <br />
 <br />
 <br />
-<br />
+
 
 </p>
-<br/>
+
  <p align="center">
  <h3 align="center"> <strong>Current Github Status</strong></h3>
  </br>
