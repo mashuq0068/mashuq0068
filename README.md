@@ -8,7 +8,7 @@
 
 
   <p align="center">
- <h2> <strong>About me</strong></h2>
+ <h3 align="center"> <strong>About me</strong></h3>
 </p>
 
 👋 Welcome Friends! I'm Mashuq, a dedicated individual with a passion for crafting delightful digital experiences. 🚀 As a React front-end developer, I thrive on turning ideas into interactive and user-friendly web applications. 🌐 Constantly exploring new technologies and seeking opportunities to learn and grow. Let's connect and create something amazing together with html , css , javascript, react and tailwind!
