@@ -58,6 +58,5 @@ Key Features:
 
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&card_width=797&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=797)](https://git.io/streak-stats)
 
