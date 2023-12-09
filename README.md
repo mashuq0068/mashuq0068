@@ -45,7 +45,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 <img src="https://api.githubtrends.io/user/svg/mashuq0068/repos?time_range=one_year&theme=bright_lights" />
 <img src="https://i.ibb.co/N2z7BwR/github-wrapped-1.png"/>
+<br/>
+<br/>
+ <h3 align="center"> <strong>Contact with me</strong></h3>
+[![Email](https://img.shields.io/badge/Email-mashuq0068%40gmail.com-green?style=flat-square&logo=gmail)](mailto:mashuq0068@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=flat-square&logo=twitter)](https://twitter.com/mashuq0068)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+<br/>
+<br/>
   <h3 align="center"> <strong>Projects</strong></h3>
+  
 
 ### Project 1 **[Life Pulse](https://brand-shop-fd7b2.web.app)**
  
@@ -77,10 +86,7 @@ Key Features:
 
 
 
-### Connect with Me
-- You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
-- 🐦 Twitter: [@MyTwitterHandle](https://twitter.com/mashuq0068)
-- 💼 LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+
 
 
 
