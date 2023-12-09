@@ -1,18 +1,26 @@
 ### Hi there. I am Mashuq👋
 <div id="typed-output"></div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var options = {
-      strings: ["Hello, World! I'm a typewriter effect in a README."],
-      typeSpeed: 50,   // typing speed in milliseconds
-      backSpeed: 30,   // backspacing speed in milliseconds
-      loop: true       // loop the animation
-    };
-
-    var typed = new Typed('#typed-output', options);
+var typed = new Typed("#typed", {
+    stringsElement: '#typed-strings',
+    typeSpeed: 0,
+    backSpeed: 0,
+    backDelay: 500,
+    startDelay: 1000,
+    loop: false,
+    onBegin: function(self) { prettyLog('onBegin ' + self) },
+    onComplete: function(self) { prettyLog('onCmplete ' + self) },
+    preStringTyped: function(pos, self) { prettyLog('preStringTyped ' + pos + ' ' + self); },
+    onStringTyped: function(pos, self) { prettyLog('onStringTyped ' + pos + ' ' + self) },
+    onLastStringBackspaced: function(self) { prettyLog('onLastStringBackspaced ' + self) },
+    onTypingPaused: function(pos, self) { prettyLog('onTypingPaused ' + pos + ' ' + self) },
+    onTypingResumed: function(pos, self) { prettyLog('onTypingResumed ' + pos + ' ' + self) },
+    onReset: function(self) { prettyLog('onReset ' + self) },
+    onStop: function(pos, self) { prettyLog('onStop ' + pos + ' ' + self) },
+    onStart: function(pos, self) { prettyLog('onStart ' + pos + ' ' + self) },
+    onDestroy: function(self) { prettyLog('onDestroy ' + self) }
   });
-</script>
+    
+
 ![Banner](https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png)
 
 
