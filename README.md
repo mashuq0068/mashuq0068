@@ -2,12 +2,7 @@
  <p align="center">
   <strong>Hi there. I am Mashuq 👋</strong>
 </p>
-<br />
-<br />
-<br />
-<br />
-
-
+<br/>
 
 ![Banner](https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png)
 
@@ -39,19 +34,11 @@
   
   <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="60" />
 
-
-
-
-
-  
 </p>
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
  ## Projects
 
