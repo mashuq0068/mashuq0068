@@ -19,9 +19,9 @@
   
 - <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="20" />    Tailwind CSS •
 
- # Projects
+ ## Projects
 
-- **[Life Pulse](https://brand-shop-fd7b2.web.app)**
+### Project 3 **[Life Pulse](https://brand-shop-fd7b2.web.app)**
  
 Used Technologies :React Tailwin ,Material ui , Firebase
 
@@ -30,7 +30,7 @@ Key Features:
 - Implemented a premium membership feature allowing enhancing user engagement andmonetization potential.
 - Admin Email : mashuq0079@gmail.com , Admin password:2020Fh#, to see the admin dashboard
 
-- **[Eat togther](https://fir-practice-email-pass.web.app/)**
+### Project 2 **[Eat togther](https://fir-practice-email-pass.web.app/)**
  
 Used Technologies :React, Tailwind, Firebase
 
@@ -40,7 +40,7 @@ Key Features:
 - Empowering users to oversee their requested and shared food items, providing a personalized and efficient management experience.
 
 
-- **[Corporate Event Manager](https://corporate-event-manager.web.app)**
+### Project 3 **[Corporate Event Manager](https://corporate-event-manager.web.app)**
   
 Used Technologies :React, Tailwind, Firebase
 
