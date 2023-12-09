@@ -43,7 +43,7 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
-![Static Badge](https://img.shields.io/badge/badge-maker)
+<img src="https://api.githubtrends.io/user/svg/mashuq0068/repos?time_range=one_year&theme=bright_lights" />
   <h3 align="center"> <strong>Projects</strong></h3>
 
 ### Project 1 **[Life Pulse](https://brand-shop-fd7b2.web.app)**
