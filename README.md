@@ -47,9 +47,10 @@
 <br/>
 <br/>
  <h3 align="center"> <strong>Contact with me</strong></h3>
-[![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mashuq0068)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
-[![Email](https://img.shields.io/badge/Email-mashuq0068%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mashuq0068@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=flat-square&logo=twitter)](https://twitter.com/mashuq0068)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+[![Email](https://img.shields.io/badge/Email-mashuq0068%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mashuq0068@gmail.com)
+
 <br/>
 <br/>
   <h3 align="center"> <strong>Projects</strong></h3>
