@@ -26,32 +26,32 @@
 Used Technologies :React Tailwin ,Material ui , Firebase
 
 Key Features:
--In the intricate dance of professional disclosure, one's biodata unfolds for all eyes, yet the coveted contact details remain a mystery, accessible solely through the premium membership's exclusive lens.
--Implemented a premium membership feature allowing enhancing user engagement andmonetization potential.
-Admin Email : mashuq0079@gmail.com , Admin password:2020Fh#, to see the admin dashboard
+- In the intricate dance of professional disclosure, one's biodata unfolds for all eyes, yet the coveted contact details remain a mystery, accessible solely through the premium membership's exclusive lens.
+- Implemented a premium membership feature allowing enhancing user engagement andmonetization potential.
+- Admin Email : mashuq0079@gmail.com , Admin password:2020Fh#, to see the admin dashboard
 
 - **[Eat togther](https://fir-practice-email-pass.web.app/)**
  
 Used Technologies :React, Tailwind, Firebase
 
 Key Features:
--Enable individuals to contribute to the community by sharing or donating their culinary creations to those in need.
--Hungry individuals in need can submit requests for food assistance.
--Empowering users to oversee their requested and shared food items, providing a personalized and efficient management experience.
+- Enable individuals to contribute to the community by sharing or donating their culinary creations to those in need.
+- Hungry individuals in need can submit requests for food assistance.
+- Empowering users to oversee their requested and shared food items, providing a personalized and efficient management experience.
 
 
-- **[Project Name 3](https://corporate-event-manager.web.app)**
+- **[Corporate Event Manager](https://corporate-event-manager.web.app)**
   
 Used Technologies :React, Tailwind, Firebase
 
 Key Features:
--Corporate proprietors can seamlessly reserve services for their events, ensuring a streamlined and tailored experience.
--Users can access information on previous deals and timing, promoting transparency and informed decision-making
--Implemented a robust authentication system to ensure secure access and protect user data
+- Corporate proprietors can seamlessly reserve services for their events, ensuring a streamlined and tailored experience.
+- Users can access information on previous deals and timing, promoting transparency and informed decision-making
+- Implemented a robust authentication system to ensure secure access and protect user data
 
 
 
 ### Connect with Me
--You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
+- You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
 - 🐦 Twitter: [@MyTwitterHandle](https://twitter.com/mashuq0068)
 - 💼 LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
