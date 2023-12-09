@@ -1,4 +1,18 @@
 ### Hi there. I am Mashuq👋
+<div id="typed-output"></div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var options = {
+      strings: ["Hello, World! I'm a typewriter effect in a README."],
+      typeSpeed: 50,   // typing speed in milliseconds
+      backSpeed: 30,   // backspacing speed in milliseconds
+      loop: true       // loop the animation
+    };
+
+    var typed = new Typed('#typed-output', options);
+  });
+</script>
 ![Banner](https://i.ibb.co/9Tz11wN/mashuq0068-gmail-com.png)
 
 
