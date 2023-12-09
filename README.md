@@ -17,6 +17,6 @@ You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="20" /> 
      JavaScript •
   
-- <img src="(https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220)https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="20" />    Tailwind CSS •
+- <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="20" />    Tailwind CSS •
  
 
