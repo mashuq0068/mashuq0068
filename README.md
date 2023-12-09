@@ -36,8 +36,7 @@
   
   <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="60" />
   <br />
-<br />
-<br />
+
 
 
 </p>
