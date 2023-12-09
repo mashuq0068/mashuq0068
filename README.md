@@ -23,5 +23,5 @@
 
 ### Connect with Me
 -You can contact me via email at: [mashuq0068@gmail.com](mailto:mashuq0068@gmail.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/mashuq0068)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+- 🐦 Twitter: [@MyTwitterHandle](https://twitter.com/mashuq0068)
+- 💼 LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
