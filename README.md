@@ -59,4 +59,4 @@ Key Features:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&card_width=797" alt="GitHub Streak" /></a>
