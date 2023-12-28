@@ -21,7 +21,7 @@
 <br/>
                                                                                   
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; width:80vw; gap:5%">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width:max-content ; margin-left:auto ;margin-right:auto;>
   <img src="https://reactjs.org/favicon.ico" alt="React Logo" width="60" style="margin: 0 10px 10px 0;" />
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="60" style="margin: 0 10px 10px 0;" />
   <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="CSS3 Logo" width="60" style="margin: 0 10px 10px 0;" />
