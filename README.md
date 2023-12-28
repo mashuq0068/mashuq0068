@@ -23,13 +23,13 @@
 
 <p align="center">
   <img src="https://reactjs.org/favicon.ico" alt="React Logo" width="60" /><br />
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="60" /><br />
-  <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="CSS3 Logo" width="60" /><br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="60" /><br />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="60" />
+  <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="CSS3 Logo" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="60" />
   <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="60" /><br />
-  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="Firebase Logo" width="60" /><br />
-  <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Node.js Logo" width="60" /><br />
-  <img src="https://vectorified.com/images/express-js-icon-12.png" alt="Express.js Logo" width="60" /><br />
+  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="Firebase Logo" width="60" />
+  <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Node.js Logo" width="60" />
+  <img src="https://vectorified.com/images/express-js-icon-12.png" alt="Express.js Logo" width="60" />
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="MongoDB Logo" width="120" />
 </p>
 <p align="center">
