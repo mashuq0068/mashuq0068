@@ -35,6 +35,10 @@
 
   
   <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="60" />
+  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="Tailwind CSS Logo" width="60" />
+  <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Tailwind CSS Logo" width="60" />
+  <img src="https://vectorified.com/images/express-js-icon-12.png" alt="Tailwind CSS Logo" width="60" />
+  <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="Tailwind CSS Logo" width="60" />
   <br />
 
 
