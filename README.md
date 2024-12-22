@@ -32,8 +32,7 @@
 
  <br/>
  <br/>
- 
-## 👨‍💻My Tech Stack
+👨‍💻My Tech Stack
 
 ---
 As a **full-stack developer**, I work with a wide range of technologies to build efficient and interactive web applications. On the **front-end**, I use **React** 🚀 for dynamic UIs and **Tailwind CSS** 🎨 for responsive designs. On the **back-end**, I rely on **PostgreSQL** 🗄️ for reliable data storage and **Prisma** 🔧 for smooth database management. I also use **Docker** 🐋 to containerize apps and **AWS** ☁️ for scalable cloud solutions.
