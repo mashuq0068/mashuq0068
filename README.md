@@ -13,15 +13,20 @@
 
 # 👋 Welcome! I'm Mashuq
 
-- 🚀 **Full-Stack Developer** | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS  
-- 🌐 **Always Learning**: Exploring new tech & trends  
-- 💻 **Code Enthusiast**: Writing clean, efficient code  
-- 🛠️ **Problem Solver**: Tackling challenges with practical solutions  
-- 🚀 **Passionate About Front-End**: Crafting engaging UIs with React & Tailwind  
-- 👥 **Team Player**: Enjoy collaborating to bring ideas to life  
-- 🎯 **Let’s Build Something Great!**: Open to new opportunities
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    - 🚀 **Full-Stack Developer** | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS  
+    - 🌐 **Always Learning**: Exploring new tech & trends  
+    - 💻 **Code Enthusiast**: Writing clean, efficient code  
+    - 🛠️ **Problem Solver**: Tackling challenges with practical solutions  
+    - 🚀 **Passionate About Front-End**: Crafting engaging UIs with React & Tailwind  
+    - 👥 **Team Player**: Enjoy collaborating to bring ideas to life  
+    - 🎯 **Let’s Build Something Great!**: Open to new opportunities
+  </div>
+  
+  <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 200px; height: auto; margin-left: 20px;">
+</div>
 
-![Mashuq's Image](https://i.ibb.co.com/F0Wrb1G/Graphic-workstation.gif)  
 
  <br/>
  <br/>
