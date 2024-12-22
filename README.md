@@ -11,30 +11,17 @@
  <h3 align="center"> <strong>About me</strong></h3>
 </p>
 
-# 👋 Welcome!
+# 👋 Welcome! I'm Mashuq
 
-I'm Mashuq, a dedicated developer with a passion for creating great digital experiences. Here's a bit about me:
+- 🚀 **Full-Stack Developer** | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS  
+- 🌐 **Always Learning**: Exploring new tech & trends  
+- 💻 **Code Enthusiast**: Writing clean, efficient code  
+- 🛠️ **Problem Solver**: Tackling challenges with practical solutions  
+- 🚀 **Passionate About Front-End**: Crafting engaging UIs with React & Tailwind  
+- 👥 **Team Player**: Enjoy collaborating to bring ideas to life  
+- 🎯 **Let’s Build Something Great!**: Open to new opportunities
 
-1. **🚀 Full-Stack Developer**  
-   I specialize in both front-end (React, Tailwind CSS) and back-end (Prisma, PostgreSQL, Docker, AWS) technologies, building interactive and functional web apps from start to finish.
-
-2. **🌐 Always Learning**  
-   I’m constantly exploring new technologies to improve my skills and stay up-to-date with the latest trends in web development.
-
-3. **💻 Code Enthusiast**  
-   I focus on writing clean, efficient code that enhances user experience and ensures smooth functionality across all devices.
-
-4. **🛠️ Problem Solver**  
-   While not a high-level problem solver, I enjoy tackling challenges and finding practical solutions that meet the needs of my projects.
-
-5. **🚀 Passion for Front-End**  
-   React and Tailwind CSS are my tools of choice for crafting engaging, responsive interfaces that users love.
-
-6. **👥 Team Player**  
-   I value collaboration and enjoy working with others to bring ideas to life and create amazing projects together.
-
-7. **🎯 Let’s Build Something Great!**  
-   Always ready for new opportunities to create innovative and user-friendly solutions. Let’s connect and make something awesome!
+![Mashuq's Image](https://i.ibb.co.com/F0Wrb1G/Graphic-workstation.gif)  
 
  <br/>
  <br/>
