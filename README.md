@@ -40,15 +40,8 @@
 
 As a full-stack developer, I work with a range of tools and technologies across both front-end and back-end. Below are the key technologies I use to create robust, interactive web applications:
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)  
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,postgresql,prisma,docker,aws)](https://skillicons.dev)
+
 
 
 <p align="center">
