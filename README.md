@@ -10,7 +10,7 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="width: 70%;border: none; vertical-align: top;">
-      <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
+      <h3>👋 <strong>Welcome!</strong> I'm Mashuq</h3>
       <ul>
         <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
         <li>🌐 <strong>Always Learning</strong>: Exploring new tech & trends</li>
