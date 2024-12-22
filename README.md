@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-![Banner](https://ibb.co.com/BqWRK36)
+![Banner](https://i.ibb.co.com/r48Jf0p/mashuq0068-gmail-com.png)
 
 
   <p align="center">
