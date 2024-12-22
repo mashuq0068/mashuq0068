@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
       <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
       <ul>
         <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
