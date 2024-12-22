@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td style="width: 30%; vertical-align: top; text-align: center;">
-      <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image">
+      <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 300px; height: auto;">
     </td>
   </tr>
 </table>
