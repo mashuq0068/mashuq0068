@@ -11,7 +11,7 @@
  <h3 align="center"> <strong>About me</strong></h3>
 </p>
 
-<table>
+<table style="border: none; width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td style="width: 30%; vertical-align: top; text-align: center;">
-      <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 300px; height: auto;">
+      <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 350px; height: auto;">
     </td>
   </tr>
 </table>
