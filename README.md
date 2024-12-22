@@ -11,23 +11,26 @@
  <h3 align="center"> <strong>About me</strong></h3>
 </p>
 
-# 👋 Welcome! I'm Mashuq
+<table>
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+      <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
+      <ul>
+        <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
+        <li>🌐 <strong>Always Learning</strong>: Exploring new tech & trends</li>
+        <li>💻 <strong>Code Enthusiast</strong>: Writing clean, efficient code</li>
+        <li>🛠️ <strong>Problem Solver</strong>: Tackling challenges with practical solutions</li>
+        <li>🚀 <strong>Passionate About Front-End</strong>: Crafting engaging UIs with React & Tailwind</li>
+        <li>👥 <strong>Team Player</strong>: Enjoy collaborating to bring ideas to life</li>
+        <li>🎯 <strong>Let’s Build Something Great!</strong>: Open to new opportunities</li>
+      </ul>
+    </td>
+    <td style="width: 30%; vertical-align: top; text-align: center;">
+      <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 200px; height: auto;">
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="max-width: 60%;">
-    <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
-    <ul>
-      <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
-      <li>🌐 <strong>Always Learning</strong>: Exploring new tech & trends</li>
-      <li>💻 <strong>Code Enthusiast</strong>: Writing clean, efficient code</li>
-      <li>🛠️ <strong>Problem Solver</strong>: Tackling challenges with practical solutions</li>
-      <li>🚀 <strong>Passionate About Front-End</strong>: Crafting engaging UIs with React & Tailwind</li>
-      <li>👥 <strong>Team Player</strong>: Enjoy collaborating to bring ideas to life</li>
-      <li>🎯 <strong>Let’s Build Something Great!</strong>: Open to new opportunities</li>
-    </ul>
-  </div>
-  <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 200px; height: auto; margin-left: 20px;">
-</div>
 
 
 
