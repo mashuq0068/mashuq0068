@@ -78,6 +78,9 @@ Here are some of the projects I have worked on. Each project showcases my skills
 ### 📂 Project 1: **Project Name**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+ <div style="flex: 1;">
+    <img src="https://i.ibb.co.com/LPDSKSF/bike.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
       <tr><td><strong>Description</strong></td><td>A brief description of the project, what it does, and its purpose.</td></tr>
@@ -87,9 +90,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/your-username/project-repo" target="_blank">View Code</a></td></tr>
     </table>
   </div>
-  <div style="flex: 1;">
-    <img src="https://via.placeholder.com/300" alt="Project 1 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
+  
 </div>
 
 ---
@@ -97,6 +98,9 @@ Here are some of the projects I have worked on. Each project showcases my skills
 ### 📂 Project 2: **Another Project**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+ <div style="flex: 1;">
+    <img src="https://i.ibb.co.com/LPDSKSF/bike.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
       <tr><td><strong>Description</strong></td><td>A short description of the project and its core functionality.</td></tr>
@@ -106,9 +110,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/your-username/another-project" target="_blank">View Code</a></td></tr>
     </table>
   </div>
-  <div style="flex: 1;">
-    <img src="https://via.placeholder.com/300" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
+  
 </div>
 
 ---
