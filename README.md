@@ -11,8 +11,31 @@
  <h3 align="center"> <strong>About me</strong></h3>
 </p>
 
-👋 Welcome Friends! I'm Mashuq, a dedicated individual with a passion for crafting delightful digital experiences. 🚀 As a React front-end developer, I thrive on turning ideas into interactive and user-friendly web applications. 🌐 Constantly exploring new technologies and seeking opportunities to learn and grow. Let's connect and create something amazing together with html , css , javascript, react and tailwind!
-🌟
+# 👋 Welcome!
+
+I'm Mashuq, a dedicated developer with a passion for creating great digital experiences. Here's a bit about me:
+
+1. **🚀 Full-Stack Developer**  
+   I specialize in both front-end (React, Tailwind CSS) and back-end (Prisma, PostgreSQL, Docker, AWS) technologies, building interactive and functional web apps from start to finish.
+
+2. **🌐 Always Learning**  
+   I’m constantly exploring new technologies to improve my skills and stay up-to-date with the latest trends in web development.
+
+3. **💻 Code Enthusiast**  
+   I focus on writing clean, efficient code that enhances user experience and ensures smooth functionality across all devices.
+
+4. **🛠️ Problem Solver**  
+   While not a high-level problem solver, I enjoy tackling challenges and finding practical solutions that meet the needs of my projects.
+
+5. **🚀 Passion for Front-End**  
+   React and Tailwind CSS are my tools of choice for crafting engaging, responsive interfaces that users love.
+
+6. **👥 Team Player**  
+   I value collaboration and enjoy working with others to bring ideas to life and create amazing projects together.
+
+7. **🎯 Let’s Build Something Great!**  
+   Always ready for new opportunities to create innovative and user-friendly solutions. Let’s connect and make something awesome!
+
  <br/>
  <br/>
 <p align="center">
