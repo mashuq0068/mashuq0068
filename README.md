@@ -7,13 +7,9 @@
 ![Banner](https://i.ibb.co.com/r48Jf0p/mashuq0068-gmail-com.png)
 
 
-  <p align="center">
- <h3 align="center"> <strong>About me</strong></h3>
-</p>
-
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 70%;border: none; vertical-align: top;">
       <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
       <ul>
         <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
@@ -25,7 +21,7 @@
         <li>🎯 <strong>Let’s Build Something Great!</strong>: Open to new opportunities</li>
       </ul>
     </td>
-    <td style="width: 30%; vertical-align: top; text-align: center;">
+    <td style="width: 30%; border: none;vertical-align: top; text-align: center;">
       <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 350px; height: auto;">
     </td>
   </tr>
