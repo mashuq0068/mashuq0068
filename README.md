@@ -36,24 +36,19 @@
 
  <br/>
  <br/>
-<p align="center">
- <h3 align="center"> <strong>Skills</strong></h3>
-</p>
-<br/>
-                                                                                  
+# 👨‍💻 My Full-Stack Development Skills
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width:max-content ; margin-left:auto ;margin-right:auto;>
-  <img src="https://reactjs.org/favicon.ico" alt="React Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="CSS3 Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://reactjs.org/favicon.ico" alt="React Logo" width="60" style="margin: 0 10px 10px 0;"  />
-  <img src="https://tse3.mm.bing.net/th?id=OIP.eldTv3sw1JRG4EcL5rDYZgHaEy&pid=Api&P=0&h=220" alt="Tailwind CSS Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="Firebase Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="Node.js Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://vectorified.com/images/express-js-icon-12.png" alt="Express.js Logo" width="60" style="margin: 0 10px 10px 0;" />
-  <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="MongoDB Logo" width="120" style="margin: 0 10px 10px 0;" />
-</div>
+As a full-stack developer, I work with a range of tools and technologies across both front-end and back-end. Below are the key technologies I use to create robust, interactive web applications:
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)  
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)  
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
 
 
 <p align="center">
