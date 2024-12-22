@@ -37,7 +37,7 @@
  <br/>
  <br/>
  
-## 👨‍💻My Tech Stack
+ 👨‍💻My Tech Stack
 ---
 As a full-stack developer, I work with a range of tools and technologies across both front-end and back-end. Below are the key technologies I use to create robust, interactive web applications:
 
