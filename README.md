@@ -34,8 +34,9 @@
  <br/>
  
 ## 👨‍💻My Tech Stack
----
 As a full-stack developer, I work with a range of tools and technologies across both front-end  and back-end. Below are the key technologies I use to create robust, interactive web applications:
+
+---
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,postgresql,prisma,docker,aws)](https://skillicons.dev)
