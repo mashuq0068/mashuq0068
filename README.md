@@ -50,18 +50,31 @@ As a full-stack developer, I work with a range of tools and technologies across 
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)]
- <h3 align="center"> <strong>Contact with me</strong></h3>
-<p align="center">
-  <a href="mailto:mashuq0068@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-mashuq0068%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=302D41"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=for-the-badge&logo=linkedin&labelColor=302D41"/>
-  </a>
-  <a href="https://twitter.com/mashuq0068">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=for-the-badge&logo=twitter&labelColor=302D41"/>
-  </a>
-</p>
+# 📞 Contact Me
+
+I'm always open to connecting! You can reach out to me via email, LinkedIn, or Twitter. Feel free to connect!
+
+---
+
+### 📧 Email
+[**mashuq0068@gmail.com**](mailto:mashuq0068@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-mashuq0068%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=302D41)](mailto:mashuq0068@gmail.com)
+
+---
+
+### 💼 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+- [Twitter](https://twitter.com/mashuq0068)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=for-the-badge&logo=linkedin&labelColor=302D41)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=for-the-badge&logo=twitter&labelColor=302D41)](https://twitter.com/mashuq0068)
+
+---
+
+### 🌐 Let's Collaborate!
+Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!
+
 
 
 <br/>
