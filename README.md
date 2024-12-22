@@ -14,18 +14,21 @@
 # 👋 Welcome! I'm Mashuq
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    - 🚀 **Full-Stack Developer** | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS  
-    - 🌐 **Always Learning**: Exploring new tech & trends  
-    - 💻 **Code Enthusiast**: Writing clean, efficient code  
-    - 🛠️ **Problem Solver**: Tackling challenges with practical solutions  
-    - 🚀 **Passionate About Front-End**: Crafting engaging UIs with React & Tailwind  
-    - 👥 **Team Player**: Enjoy collaborating to bring ideas to life  
-    - 🎯 **Let’s Build Something Great!**: Open to new opportunities
+  <div style="max-width: 60%;">
+    <p>👋 <strong>Welcome!</strong> I'm Mashuq</p>
+    <ul>
+      <li>🚀 <strong>Full-Stack Developer</strong> | React, Tailwind CSS, Prisma, PostgreSQL, Docker, AWS</li>
+      <li>🌐 <strong>Always Learning</strong>: Exploring new tech & trends</li>
+      <li>💻 <strong>Code Enthusiast</strong>: Writing clean, efficient code</li>
+      <li>🛠️ <strong>Problem Solver</strong>: Tackling challenges with practical solutions</li>
+      <li>🚀 <strong>Passionate About Front-End</strong>: Crafting engaging UIs with React & Tailwind</li>
+      <li>👥 <strong>Team Player</strong>: Enjoy collaborating to bring ideas to life</li>
+      <li>🎯 <strong>Let’s Build Something Great!</strong>: Open to new opportunities</li>
+    </ul>
   </div>
-  
   <img src="https://i.ibb.co/F0Wrb1G/Graphic-workstation.gif" alt="Mashuq's Image" style="width: 200px; height: auto; margin-left: 20px;">
 </div>
+
 
 
  <br/>
