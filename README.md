@@ -47,9 +47,9 @@ As a full-stack developer, I work with a range of tools and technologies across 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="mashuq0068's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=gruvbox&hide_border=true" alt="mashuq0068's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="mashuq0068's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mashuq0068's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=default&hide_border=true" alt="mashuq0068's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mashuq0068's Top Languages" />
 </p>
 
 
