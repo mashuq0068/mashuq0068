@@ -124,7 +124,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
   </td>
 </tr>
      <tr><td><strong>Credentials</strong></td><td>1.Admin Email : admin123@gmail.com , Amdin Password: admin123 </td></tr>
-      <tr><td><strong>Live URL</strong></td><td><a href="https://another-example.com" target="_blank">Live Demo</a></td></tr>
+      <tr><td><strong>Live URL</strong></td><td><a href="https://bike-rental-frontend-xi.vercel.app/" target="_blank">Live Demo</a></td></tr>
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/bike-rental-client" target="_blank">View Code</a></td></tr>
     </table>
   </div>
