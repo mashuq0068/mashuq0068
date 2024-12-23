@@ -42,10 +42,9 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
 
 
-<p align="center">
- <br/>
- <h3 align="center"> <strong>Current Github Status</strong></h3>
-</p>
+## 👨‍💻Github stats
+
+---
 
 ![mashuq0068's Stats](https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![mashuq0068's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=vue-dark&hide_border=true)
