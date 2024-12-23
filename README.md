@@ -42,13 +42,14 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
 
 
-## 👨‍💻Github stats
+## 👨‍💻 GitHub Stats  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="mashuq0068's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=vue&hide_border=true" alt="mashuq0068's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&theme=vue&show_icons=true&hide_border=true&layout=compact" alt="mashuq0068's Top Languages" />
+</p>
 
-![mashuq0068's Stats](https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![mashuq0068's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=vue&hide_border=true)
-![mashuq0068's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ## 💼 Contact Me
 
