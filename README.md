@@ -41,6 +41,7 @@ As a full-stack developer, I work with a range of tools and technologies across 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,postgresql,prisma,docker,aws)](https://skillicons.dev)
 
 
+ <br/>
 
 ## 👨‍💻 GitHub Stats  
 
