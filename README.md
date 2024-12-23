@@ -116,7 +116,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
 
 <div style="display: flex; justify-content: center; align-items: center;">
  <div style="flex: 1;">
-    <img src="https://i.ibb.co.com/LPDSKSF/bike.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <img src="https://i.ibb.co.com/qYpPgWz/Screenshot-2024-12-23-134515.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
@@ -131,8 +131,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
     5. Rental History Tracking: Offers users and admins a detailed log of past and ongoing rentals.
   </td>
 </tr>
-
-      <tr><td><strong>Credentials</strong></td><td>1.Admin Email : admin123@gmail.com , Amdin Password: admin123 </td></tr>
+     <tr><td><strong>Credentials</strong></td><td>1.Admin Email : admin123@gmail.com , Amdin Password: admin123 </td></tr>
       <tr><td><strong>Live URL</strong></td><td><a href="https://another-example.com" target="_blank">Live Demo</a></td></tr>
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/bike-rental-client" target="_blank">View Code</a></td></tr>
     </table>
@@ -140,7 +139,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
   
 </div>
 
----
+
 
 
 
