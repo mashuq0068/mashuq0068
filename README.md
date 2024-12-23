@@ -54,10 +54,9 @@ As a full-stack developer, I work with a range of tools and technologies across 
 🌐 Let's Collaborate! Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!I'm always open to connecting! You can reach out to me via email, LinkedIn, or Twitter. Feel free to connect!
 
 ---
-
-[![Gmail](https://img.shields.io/badge/Gmail-Click%20to%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashuq0068@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mashuq0068)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mashuq0068@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mashuq0068)
 
 
 
