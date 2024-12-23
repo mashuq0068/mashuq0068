@@ -49,9 +49,9 @@ As a full-stack developer, I work with a range of tools and technologies across 
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mashuq0068&theme=prussian&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)]
-# 📞 Contact Me
+## 💼 Contact Me
 
-I'm always open to connecting! You can reach out to me via email, LinkedIn, or Twitter. Feel free to connect!
+### 🌐 Let's Collaborate! Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!I'm always open to connecting! You can reach out to me via email, LinkedIn, or Twitter. Feel free to connect!
 
 ---
 
@@ -69,10 +69,6 @@ I'm always open to connecting! You can reach out to me via email, LinkedIn, or T
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=for-the-badge&logo=linkedin&labelColor=302D41)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=for-the-badge&logo=twitter&labelColor=302D41)](https://twitter.com/mashuq0068)
 
----
-
-### 🌐 Let's Collaborate!
-Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!
 
 
 <br/>
