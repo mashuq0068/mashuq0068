@@ -95,14 +95,14 @@ Here are some of the projects I have worked on. Each project showcases my skills
       <tr><td><strong>Technologies Used</strong></td><td>Typescript,Nextjs, Tailwind CSS, PostgreSQL, Prisma, Docker</td></tr>
     <tr><td><strong>Key Features</strong></td>
   <td>
-    - Vendor Management System: Enables vendors to manage their product listings, track inventory, and view sales.<br>
-    - Customer Portal: Provides customers with an intuitive interface for browsing, purchasing, and tracking orders.<br>
-    - Admin Dashboard: A centralized dashboard for managing vendors, customers, and orders.<br>
-    - Product Catalog & Search: Allows customers to easily find products through search and filter options.<br>
-    - Secure Online Payments: Facilitates smooth and secure transactions with payment integration.
+    1. Vendor Management System: Enables vendors to manage their product listings, track inventory, and view sales.<br>
+    2. Customer Portal: Provides customers with an intuitive interface for browsing, purchasing, and tracking orders.<br>
+    3. Admin Dashboard: A centralized dashboard for managing vendors, customers, and orders.<br>
+    4. Product Catalog & Search: Allows customers to easily find products through search and filter options.<br>
+    5. Secure Online Payments: Facilitates smooth and secure transactions with payment integration.
   </td>
 </tr>
-     r><td><strong>Credentials</strong></td><td> - Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> - Vendor Email : vendor123@gmail.com , Vendor Password: vendor123 </td></tr>
+     <td><strong>Credentials</strong></td><td> 1. Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> 2. Vendor Email : vendor123@gmail.com , Vendor Password: vendor123 </td></tr>
       <tr><td><strong>Live URL</strong></td><td><a href="https://swift-garden-frontned.vercel.app/" target="_blank">Live Demo</a></td></tr>
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/swift-garden-frontend" target="_blank">View Code</a></td></tr>
     </table>
@@ -114,7 +114,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
 
 ### 📂 Project 2: **Bikease**
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
  <div style="flex: 1;">
     <img src="https://i.ibb.co.com/LPDSKSF/bike.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
@@ -124,15 +124,15 @@ Here are some of the projects I have worked on. Each project showcases my skills
       <tr><td><strong>Technologies Used</strong></td><td>Typescript,react, Node.js, MongoDB, Express</td></tr>
     <tr><td><strong>Key Features</strong></td>
   <td>
-    - Bike Reservation System: Allows users to browse available bikes and reserve them for specific dates and times.<br>
-    - Online Booking: Enables users to book bikes conveniently through a user-friendly interface.<br>
-    - User Management: Provides a portal for customers to manage their profiles, rental history, and ongoing reservations.<br>
-    - Admin Dashboard: Centralized management for bike inventory, user data, and rental tracking.<br>
-    - Rental History Tracking: Offers users and admins a detailed log of past and ongoing rentals.
+    1. Bike Reservation System: Allows users to browse available bikes and reserve them for specific dates and times.<br>
+    2. Online Booking: Enables users to book bikes conveniently through a user-friendly interface.<br>
+    3. User Management: Provides a portal for customers to manage their profiles, rental history, and ongoing reservations.<br>
+    4. Admin Dashboard: Centralized management for bike inventory, user data, and rental tracking.<br>
+    5. Rental History Tracking: Offers users and admins a detailed log of past and ongoing rentals.
   </td>
 </tr>
 
-      <tr><td><strong>Credentials</strong></td><td>Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> - Feature 2: Explanation of feature.</td></tr>
+      <tr><td><strong>Credentials</strong></td><td>1.Admin Email : admin123@gmail.com , Amdin Password: admin123 </td></tr>
       <tr><td><strong>Live URL</strong></td><td><a href="https://another-example.com" target="_blank">Live Demo</a></td></tr>
       <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/bike-rental-client" target="_blank">View Code</a></td></tr>
     </table>
