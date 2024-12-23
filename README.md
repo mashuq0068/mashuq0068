@@ -31,7 +31,6 @@
 
 
  <br/>
- <br/>
  
 ## 👨‍💻My Tech Stack
 As a full-stack developer, I work with a range of tools and technologies across both front-end  and back-end. Below are the key technologies I use to create robust, interactive web applications:
@@ -76,28 +75,36 @@ I'm always open to connecting! You can reach out to me via email, LinkedIn, or T
 Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!
 
 
+<br/>
 
-<br/>
-<br/>
-# 🚀 Project Showcase
+## 🚀 Project Showcase
 
 Here are some of the projects I have worked on. Each project showcases my skills and experience with a variety of technologies. Feel free to explore the details below:
 
 ---
 
-### 📂 Project 1: **Project Name**
+### 📂 Project 1: **Swift-Garden**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
  <div style="flex: 1;">
-    <img src="https://i.ibb.co.com/LPDSKSF/bike.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <img src="https://i.ibb.co.com/FYRmKc1/Screenshot-2024-12-19-134913.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
       <tr><td><strong>Description</strong></td><td>A brief description of the project, what it does, and its purpose.</td></tr>
-      <tr><td><strong>Technologies Used</strong></td><td>React, Tailwind CSS, PostgreSQL, Prisma, Docker, AWS</td></tr>
-      <tr><td><strong>Key Features</strong></td><td>- Feature 1: Explanation of feature. <br> - Feature 2: Explanation of feature.</td></tr>
-      <tr><td><strong>Live URL</strong></td><td><a href="https://example.com" target="_blank">Live Demo</a></td></tr>
-      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/your-username/project-repo" target="_blank">View Code</a></td></tr>
+      <tr><td><strong>Technologies Used</strong></td><td>Typescript,Nextjs, Tailwind CSS, PostgreSQL, Prisma, Docker</td></tr>
+    <tr><td><strong>Key Features</strong></td>
+  <td>
+    - Vendor Management System: Enables vendors to manage their product listings, track inventory, and view sales.<br>
+    - Customer Portal: Provides customers with an intuitive interface for browsing, purchasing, and tracking orders.<br>
+    - Admin Dashboard: A centralized dashboard for managing vendors, customers, and orders.<br>
+    - Product Catalog & Search: Allows customers to easily find products through search and filter options.<br>
+    - Secure Online Payments: Facilitates smooth and secure transactions with payment integration.
+  </td>
+</tr>
+     r><td><strong>Credentials</strong></td><td> - Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> - Vendor Email : vendor123@gmail.com , Vendor Password: vendor123 </td></tr>
+      <tr><td><strong>Live URL</strong></td><td><a href="https://swift-garden-frontned.vercel.app/" target="_blank">Live Demo</a></td></tr>
+      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/swift-garden-frontend" target="_blank">View Code</a></td></tr>
     </table>
   </div>
   
@@ -105,7 +112,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
 
 ---
 
-### 📂 Project 2: **Another Project**
+### 📂 Project 2: **Bikease**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
  <div style="flex: 1;">
@@ -114,10 +121,20 @@ Here are some of the projects I have worked on. Each project showcases my skills
   <div style="flex: 1; padding-right: 20px;">
     <table>
       <tr><td><strong>Description</strong></td><td>A short description of the project and its core functionality.</td></tr>
-      <tr><td><strong>Technologies Used</strong></td><td>JavaScript, Node.js, MongoDB</td></tr>
-      <tr><td><strong>Key Features</strong></td><td>- Feature 1: Explanation of feature. <br> - Feature 2: Explanation of feature.</td></tr>
+      <tr><td><strong>Technologies Used</strong></td><td>Typescript,react, Node.js, MongoDB, Express</td></tr>
+    <tr><td><strong>Key Features</strong></td>
+  <td>
+    - Bike Reservation System: Allows users to browse available bikes and reserve them for specific dates and times.<br>
+    - Online Booking: Enables users to book bikes conveniently through a user-friendly interface.<br>
+    - User Management: Provides a portal for customers to manage their profiles, rental history, and ongoing reservations.<br>
+    - Admin Dashboard: Centralized management for bike inventory, user data, and rental tracking.<br>
+    - Rental History Tracking: Offers users and admins a detailed log of past and ongoing rentals.
+  </td>
+</tr>
+
+      <tr><td><strong>Credentials</strong></td><td>Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> - Feature 2: Explanation of feature.</td></tr>
       <tr><td><strong>Live URL</strong></td><td><a href="https://another-example.com" target="_blank">Live Demo</a></td></tr>
-      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/your-username/another-project" target="_blank">View Code</a></td></tr>
+      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/bike-rental-client" target="_blank">View Code</a></td></tr>
     </table>
   </div>
   
