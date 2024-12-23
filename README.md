@@ -55,19 +55,10 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
 ---
 
-### 📧 Email
-[**mashuq0068@gmail.com**](mailto:mashuq0068@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail)](mailto:mashuq0068@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=social&logo=twitter)](https://twitter.com/mashuq0068)
 
-[![Gmail](https://img.shields.io/badge/Gmail-mashuq0068%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=302D41)](mailto:mashuq0068@gmail.com)
-
----
-
-### 💼 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
-- [Twitter](https://twitter.com/mashuq0068)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Mashuqur%20Rahman-blue?style=for-the-badge&logo=linkedin&labelColor=302D41)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40mashuq0068-blue?style=for-the-badge&logo=twitter&labelColor=302D41)](https://twitter.com/mashuq0068)
 
 
 
