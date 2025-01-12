@@ -83,7 +83,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
-      <tr><td><strong>Description</strong></td><td>A brief description of the project, what it does, and its purpose.</td></tr>
+      <tr><td><strong>Description</strong></td><td>A multi vendor e-commerce system with proper vendor management and admin dashboard</td></tr>
       <tr><td><strong>Technologies Used</strong></td><td>Typescript,Nextjs, Tailwind CSS, PostgreSQL, Prisma, Docker</td></tr>
     <tr><td><strong>Key Features</strong></td>
   <td>
@@ -112,7 +112,7 @@ Here are some of the projects I have worked on. Each project showcases my skills
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <table>
-      <tr><td><strong>Description</strong></td><td>A short description of the project and its core functionality.</td></tr>
+      <tr><td><strong>Description</strong></td><td>A Bike rental service based web apllications with modern features and admin dashboard.</td></tr>
       <tr><td><strong>Technologies Used</strong></td><td>Typescript,react, Node.js, MongoDB, Express</td></tr>
     <tr><td><strong>Key Features</strong></td>
   <td>
