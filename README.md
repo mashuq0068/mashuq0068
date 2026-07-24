@@ -46,12 +46,12 @@ As a full-stack developer, I work with a range of tools and technologies across 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mashuq0068&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Mashuq's GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=mashuq0068&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Mashuq's GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=tokyonight&hide_border=true" alt="Mashuq's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mashuq0068&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -60,11 +60,6 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mashuq0068&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mashuq0068&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mashuq0068?label=Followers&style=flat&color=6c63ff" alt="Followers" />
 </p>
 
 <br/>
