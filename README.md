@@ -43,25 +43,53 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
  <br/>
 
-## 👨‍💻 GitHub Stats  
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashuq0068&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mashuq0068's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=default&hide_border=true" alt="mashuq0068's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mashuq0068's Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mashuq0068&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Mashuq's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mashuq0068&theme=tokyonight&hide_border=true" alt="Mashuq's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuq0068&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages" />
+</p>
 
-## 💼 Contact Me
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashuq0068&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
-🌐 Let's Collaborate! Feel free to reach out if you're interested in collaborating or just want to chat about tech, programming, or life in general. Looking forward to connecting with you!I'm always open to connecting! You can reach out to me via email, LinkedIn, or Twitter. Feel free to connect!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mashuq0068&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
-  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mashuq0068@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mashuq0068)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mashuq0068&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mashuq0068?label=Followers&style=flat&color=6c63ff" alt="Followers" />
+</p>
 
+<br/>
+
+## 💼 Let's Connect
+
+<p align="center">
+Open to full-stack roles, freelance collaborations, and interesting product ideas.<br/>
+Reach out — I usually reply fast.
+</p>
+
+<p align="center">
+  <a href="mailto:mashuq0068@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/mashuq0068">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/mashuq0068">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 
 
