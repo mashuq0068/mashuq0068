@@ -67,69 +67,7 @@ As a full-stack developer, I work with a range of tools and technologies across 
 
 
 
-<br/>
 
-## 🚀 Project Showcase
-
-Here are some of the projects I have worked on. Each project showcases my skills and experience with a variety of technologies. Feel free to explore the details below:
-
----
-
-### 📂 Project 1: **Swift-Garden**
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
- <div style="flex: 1;">
-    <img src="https://i.ibb.co.com/FYRmKc1/Screenshot-2024-12-19-134913.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; padding-right: 20px;">
-    <table>
-      <tr><td><strong>Description</strong></td><td>A multi vendor e-commerce system with proper vendor management and admin dashboard</td></tr>
-      <tr><td><strong>Technologies Used</strong></td><td>Typescript,Nextjs, Tailwind CSS, PostgreSQL, Prisma, Docker</td></tr>
-    <tr><td><strong>Key Features</strong></td>
-  <td>
-    1. Vendor Management System: Enables vendors to manage their product listings, track inventory, and view sales.<br>
-    2. Customer Portal: Provides customers with an intuitive interface for browsing, purchasing, and tracking orders.<br>
-    3. Admin Dashboard: A centralized dashboard for managing vendors, customers, and orders.<br>
-    4. Product Catalog & Search: Allows customers to easily find products through search and filter options.<br>
-    5. Secure Online Payments: Facilitates smooth and secure transactions with payment integration.
-  </td>
-</tr>
-     <td><strong>Credentials</strong></td><td> 1. Admin Email : admin123@gmail.com , Amdin Password: admin123 <br> 2. Vendor Email : vendor123@gmail.com , Vendor Password: vendor123 </td></tr>
-      <tr><td><strong>Live URL</strong></td><td><a href="https://swift-garden-frontned.vercel.app/" target="_blank">Live Demo</a></td></tr>
-      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/swift-garden-frontend" target="_blank">View Code</a></td></tr>
-    </table>
-  </div>
-  
-</div>
-
----
-
-### 📂 Project 2: **Bikease**
-
-<div style="display: flex; justify-content: center; align-items: center;">
- <div style="flex: 1;">
-    <img src="https://i.ibb.co.com/qYpPgWz/Screenshot-2024-12-23-134515.png" alt="Project 2 Image" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; padding-right: 20px;">
-    <table>
-      <tr><td><strong>Description</strong></td><td>A Bike rental service based web apllications with modern features and admin dashboard.</td></tr>
-      <tr><td><strong>Technologies Used</strong></td><td>Typescript,react, Node.js, MongoDB, Express</td></tr>
-    <tr><td><strong>Key Features</strong></td>
-  <td>
-    1. Bike Reservation System: Allows users to browse available bikes and reserve them for specific dates and times.<br>
-    2. Online Booking: Enables users to book bikes conveniently through a user-friendly interface.<br>
-    3. User Management: Provides a portal for customers to manage their profiles, rental history, and ongoing reservations.<br>
-    4. Admin Dashboard: Centralized management for bike inventory, user data, and rental tracking.<br>
-    5. Rental History Tracking: Offers users and admins a detailed log of past and ongoing rentals.
-  </td>
-</tr>
-     <tr><td><strong>Credentials</strong></td><td>1.Admin Email : admin123@gmail.com , Amdin Password: admin123 </td></tr>
-      <tr><td><strong>Live URL</strong></td><td><a href="https://bike-rental-frontend-xi.vercel.app/" target="_blank">Live Demo</a></td></tr>
-      <tr><td><strong>GitHub Repo</strong></td><td><a href="https://github.com/mashuq0068/bike-rental-client" target="_blank">View Code</a></td></tr>
-    </table>
-  </div>
-  
-</div>
 
 
 
